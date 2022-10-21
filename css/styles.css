@@ -147,8 +147,9 @@ h1 , h2 , h3 , h4 , h5 , h6{
 .footerDownload{
   margin: 20px 10px;
 }
-
-
+.mw-headline{
+  color:white;
+}
 @media (max-width: 1001px){
   .dog{
     position: static;
